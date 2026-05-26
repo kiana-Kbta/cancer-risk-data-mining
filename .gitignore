@@ -1,0 +1,35 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files
+# *.csv
+# *.xlsx
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# matplotlib cache
+.matplotlib/
+
+# Pickle files
+*.pkl
